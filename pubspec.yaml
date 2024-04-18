@@ -21,7 +21,7 @@ dependencies:
   http: ^1.2.1
 
   # For rotating spining animation
-  flutter_spinkit: ^5.1.0
+  flutter_spinkit: ^5.2.1
 
   # For showing toast
   fluttertoast: ^8.2.2
