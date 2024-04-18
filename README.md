@@ -36,7 +36,7 @@ A simple weather app for as a personal project. Climate Caste app gets full weat
   
 <br>
 
-## Run Locally
+## Deployment
 
 Clone the project
 
@@ -50,10 +50,19 @@ Go to the project directory
 cd climate_cast
 ```
 
+<br>
+
+## Run Locally
+
+
 Install dependencies
 
 ```
 flutter pub get
+```
+
+```
+flutter run
 ```
 
 <br>
